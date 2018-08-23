@@ -13,4 +13,23 @@ h1, .h1, h2, .h2, h3, .h3 {
 
 .lead {
   margin-bottom: 0px;
+  font-size: 16px;
+}
+
+.alert {
+  margin: 10px;
+  padding: 5px;
+  border-color: darkgrey;
+}
+
+.panel-info {
+  background-color: #f7fbfc;
+}
+
+.panel-success {
+  background-color: #f8fcf7;
+}
+
+.panel-danger {
+  background-color: #fcf7f7;
 }
