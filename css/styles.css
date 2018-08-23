@@ -33,3 +33,15 @@ h1, .h1, h2, .h2, h3, .h3 {
 .panel-danger {
   background-color: #fcf7f7;
 }
+
+.threerows [class*="col"] {
+  padding: 5px;
+}
+
+.panel {
+  margin: 0px;
+}
+
+.well {
+  margin: 0px;
+}
